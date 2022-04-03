@@ -1,1 +1,1 @@
-This a blog app about cutting edge technologies.
+A blog app about sharing latest information on cutting edge technologies.
